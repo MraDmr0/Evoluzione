@@ -1,3 +1,10 @@
+##Evoluzione.py##
+##classe python per l'evoluzione temporale di sistemi quantistici ad n-livelli 
+##soggetti ad un potenziale scalare esterno con il metofdo di Runge-Kutta 4
+##
+##Autore: Mario Di Mare
+
+
 import numpy as np
 
 #unità immaginaria
